@@ -1,6 +1,10 @@
 Text-Recognition
 ================
 
+Software Engineering Undergraduate Final Project
+​
+<hr />
+
 # Description
 
 Android Text Recognition and Translation App
@@ -23,3 +27,10 @@ Tesseract is probably the most accurate open source OCR engine available. Combin
 # Screenshot
 
 <img src="http://upload7.ir/images/89771048969946949934.png">
+
+<hr />
+
+# About
+
+[Department of Computer Engineering] (http://www.iust.ac.ir/index.php?site=dept_ce)
+[Iran University of Science & Technology ( IUST )] (http://www.iust.ac.ir/)

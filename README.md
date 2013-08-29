@@ -1,6 +1,8 @@
 Text-Recognition
 ================
 
+# Description
+
 Android Text Recognition and Translation App
 
 <hr />
@@ -11,11 +13,13 @@ Tesseract is probably the most accurate open source OCR engine available. Combin
 
 <hr />
 
-# Screenshot
-
-<img src="http://upload7.ir/images/89771048969946949934.png">
-
 # Future Work
 
 * Adding [Persian Language] (http://en.wikipedia.org/wiki/Persian_language) support
 * Create full documentation about Adding a new language support for **Tesseract** OCR Engine
+
+<hr />
+
+# Screenshot
+
+<img src="http://upload7.ir/images/89771048969946949934.png">

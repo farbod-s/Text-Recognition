@@ -13,7 +13,7 @@ Tesseract is probably the most accurate open source OCR engine available. Combin
 
 # Screenshot
 
-<img src="https://github.com/farbod-s/Text-Recognition/blob/master/screenshot/device-2013-08-29-103207.png">
+<img src="http://upload7.ir/images/89771048969946949934.png">
 
 # Future Work
 

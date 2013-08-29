@@ -32,5 +32,4 @@ Tesseract is probably the most accurate open source OCR engine available. Combin
 
 # About
 
-[Department of Computer Engineering] (http://www.iust.ac.ir/index.php?site=dept_ce)
-[Iran University of Science & Technology ( IUST )] (http://www.iust.ac.ir/)
+[Department of Computer Engineering] (http://www.iust.ac.ir/index.php?site=dept_ce), [Iran University of Science & Technology ( IUST )] (http://www.iust.ac.ir/)
